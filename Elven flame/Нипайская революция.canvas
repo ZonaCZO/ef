@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"id":"9fb799b709acc4e8","type":"text","text":"Вторая Холодная Война","x":-140,"y":-340,"width":250,"height":60},
+		{"id":"1b3e49d59d385369","type":"text","text":"Гражданская война в Тиверии и Мировая Весна","x":-140,"y":-160,"width":250,"height":80},
+		{"id":"77d9dfef59064ff2","type":"text","text":"Война за независимость Акрии","x":-140,"y":20,"width":250,"height":60},
+		{"id":"898710754dd66b88","type":"text","text":"Ниакийская резня","x":-140,"y":160,"width":250,"height":60},
+		{"id":"627aae002ad04c97","type":"text","text":"Разгон парламента Нипаи","x":-140,"y":320,"width":250,"height":60},
+		{"id":"ebcf527881c79c5d","type":"text","text":"Восстание в Маси","x":-140,"y":460,"width":250,"height":60},
+		{"id":"7d68665910e55bd7","type":"text","text":"Война за независимость","x":-140,"y":600,"width":250,"height":60},
+		{"id":"4dd00c0ca83e7960","type":"text","text":"Декларация о провозглашении Империи","x":-140,"y":740,"width":250,"height":60},
+		{"id":"69ed467bcd1d0813","type":"text","text":"Война за независимость","x":-140,"y":860,"width":250,"height":60},
+		{"id":"0087158dde7f8ec1","type":"text","text":"8-летний мир","x":-140,"y":1000,"width":250,"height":60},
+		{"id":"6260cb462ceaf1da","type":"text","text":"Вторая Великая Война","x":-140,"y":1160,"width":250,"height":60},
+		{"id":"3a36dac294d4448b","type":"text","text":"Вечный Мир","x":-140,"y":1280,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"b22cf17f63d96f7d","fromNode":"9fb799b709acc4e8","fromSide":"bottom","toNode":"1b3e49d59d385369","toSide":"top"},
+		{"id":"2bbf6fce017a2491","fromNode":"1b3e49d59d385369","fromSide":"bottom","toNode":"77d9dfef59064ff2","toSide":"top"},
+		{"id":"1d9422ab5c7aed59","fromNode":"77d9dfef59064ff2","fromSide":"bottom","toNode":"898710754dd66b88","toSide":"top"},
+		{"id":"1a1fe3ef7d9f748c","fromNode":"898710754dd66b88","fromSide":"bottom","toNode":"627aae002ad04c97","toSide":"top"},
+		{"id":"133ac7ba0d731b05","fromNode":"627aae002ad04c97","fromSide":"bottom","toNode":"ebcf527881c79c5d","toSide":"top"},
+		{"id":"64b81d4730428b98","fromNode":"ebcf527881c79c5d","fromSide":"bottom","toNode":"7d68665910e55bd7","toSide":"top"},
+		{"id":"a1decad59ee19e8d","fromNode":"7d68665910e55bd7","fromSide":"bottom","toNode":"4dd00c0ca83e7960","toSide":"top"},
+		{"id":"79f91277a9a93351","fromNode":"4dd00c0ca83e7960","fromSide":"bottom","toNode":"69ed467bcd1d0813","toSide":"top"},
+		{"id":"40902549431f1e35","fromNode":"69ed467bcd1d0813","fromSide":"bottom","toNode":"0087158dde7f8ec1","toSide":"top"},
+		{"id":"dcbbc607bd7c0762","fromNode":"0087158dde7f8ec1","fromSide":"bottom","toNode":"6260cb462ceaf1da","toSide":"top"},
+		{"id":"a92634d3be029a3f","fromNode":"6260cb462ceaf1da","fromSide":"bottom","toNode":"3a36dac294d4448b","toSide":"top"}
+	]
+}
